@@ -1,4 +1,4 @@
-# Stimulus test
+# Stimulus test1
 
 This repository forked from https://github.com/hotwired/stimulus-starter.git.
 
